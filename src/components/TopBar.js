@@ -250,11 +250,11 @@ const TopBar = () => {
               aria-expanded="false"
             >
               <span className="mr-2 d-none d-lg-inline text-gray-600 small">
-                Douglas McGee
+                Karthick V
               </span>
               <img
                 className="img-profile rounded-circle"
-                src="img/undraw_profile.svg"
+                src="img/Mine-modified.png"
                 alt="..."
               />
             </a>
